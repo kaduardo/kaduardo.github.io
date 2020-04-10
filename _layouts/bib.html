@@ -1,6 +1,5 @@
 ---
 ---
-
 {% if entry.abbr %}
   {% if site.data.venues[entry.abbr] %}
     <abbr>[<a href="{{site.data.venues[entry.abbr].url}}" target="_blank">{{entry.abbr}}</a>]</abbr>
@@ -13,8 +12,8 @@
   {% if entry.type == "thesis" %}
     {{reference}}
   {% else %}
-    <span class="title">{{entry.title}}</span>
-    <span class="author">
+    <span class="title"><b>{{entry.title}}</b></span>
+    <span class="author">by 
       {% for author in entry.author_array %}
         {% if forloop.length == 1 %}
           {% if author.last == site.scholar.last_name %}
@@ -50,9 +49,9 @@
 
     <span class="periodical">
     {% if entry.type == "article" %}
-      <em>{{entry.journal}}</em>
+      <em>{{entry.journal}}</em>, {{entry.volume}} ({{entry.number}}),
     {% elsif entry.type == "inproceedings" %}
-      <em>In {{entry.booktitle}}</em>
+      <em>In {{entry.booktitle}}</em>,
     {% endif %}
     {% if entry.year %}
       {{entry.year}}
@@ -61,6 +60,9 @@
   {% endif %}
 
   <span class="links">
+  {% if entry.doi %}
+    [<a href="{{ entry.doi | prepend: 'http://doi.org/' }}">doi: {{ entry.doi }}</a>]
+  {% endif %}
   {% if entry.abstract %}
     [<a class="abstract">Abs</a>]
   {% endif %}
