@@ -1,11 +1,21 @@
 ---
 layout: page
-title: Service Oriented Process for Agile Development
-description: A Software Development process for developing microservices following the Service-orienteation principles a project with a background image
-img: /assets/img/SPReaD_Triad.jpeg
+title: Project 1
+description: a project with a background image
+img: /assets/img/12.jpg
 ---
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+
+To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+
+    ---
+    layout: page
+    title: Project
+    description: a project with a background image
+    img: /assets/img/12.jpg
+    ---
+
 
 <div class="img_row">
     <img class="col one left" src="{{ site.baseurl }}/assets/img/1.jpg" alt="" title="example image"/>
@@ -16,10 +26,10 @@ Every project has a beautiful feature shocase page. It's easy to include images,
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
 <div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/SPReaD_Agile.jpeg" alt="" title="SPReaD Process"/>
+    <img class="col three left" src="{{ site.baseurl }}/assets/img/5.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-    SPReaD - SOA Process in Response to Agile Development.
+    This image can also have a caption. It's like magic.
 </div>
 
 You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
