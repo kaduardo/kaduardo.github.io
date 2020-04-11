@@ -9,6 +9,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
+    <p>Sheffield Hallam University, Department of Computing</p>
     <p>City Campus, Howard Street</p>
     <p>Sheffield, S1 1WB, UK</p>
 
