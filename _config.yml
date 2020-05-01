@@ -37,8 +37,8 @@ publons_id: AAA-1662-2019 # your ID on Publons
 research_gate_profile: Carlos_Da_Silva6 # your profile on ResearchGate
 blogger_url: # your blogger URL
 
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+#contact_note: >
+#  You can even add a little note about which of these is the best way to reach you.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
