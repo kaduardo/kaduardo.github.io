@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Service Oriented Process for Agile Development
-description: A Software Development process for developing microservices following the Service-orienteation principles a project with a background image
+description: A Software Development process for developing microservices following the Service-orientation principles a project with a background image
 img: /assets/img/SPReaD_Triad.jpeg
 ---
 
