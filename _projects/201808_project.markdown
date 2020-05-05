@@ -1,10 +1,12 @@
 ---
 layout: page
 title: Service Oriented Process for Agile Development
-description: A Software Development process for developing microservices following the Service-orientation principles a project with a background image
+description: A Software Development process for developing microservices following the Service-orientation principles
 img: /assets/img/SPReaD_Triad.jpeg
 date: 2018-08-01
 ---
+
+A Software Development process for developing microservices following the Service-orientation principles
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
 
