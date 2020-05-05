@@ -5,7 +5,9 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 ---
 
-{% for project in site.projects %}
+{% assign sorted = site.projects | reverse %}
+
+{% for project in sorted  %}
 
 {% if project.redirect %}
 <div class="project">
