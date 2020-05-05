@@ -103,7 +103,7 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Da Silva
+  last_name: "da Silva"
 
   #style: acm-sig-proceedings-long-author-list
   style: apa
