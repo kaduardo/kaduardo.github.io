@@ -10,11 +10,11 @@
         overflow: hidden;
         height: 200px;
         width: 100%;
+        vertical-align: middle;
 
         img {
-            align-self: center;
+            line-height: 200px;
             vertical-align: middle;
-            
             height: auto;
             width: 200px;
         }
