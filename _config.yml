@@ -28,6 +28,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 github_username: kaduardo # your GitHub user name
 twitter_username: kaduardo_br # your Twitter handle
+mastodon_username: kaduardo@mastodon.me.uk
 linkedin_username: kaduardo # your LinkedIn user name
 scholar_userid: d2Xvs2YAAAAJ # your Google Scholar ID
 orcid_id: 0000-0001-9608-439X # your ORCID ID
