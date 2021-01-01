@@ -29,6 +29,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: kaduardo # your GitHub user name
 twitter_username: kaduardo_br # your Twitter handle
 mastodon_username: kaduardo@mastodon.me.uk
+matrix_username: kaduardo:tchncs.de 
 linkedin_username: kaduardo # your LinkedIn user name
 scholar_userid: d2Xvs2YAAAAJ # your Google Scholar ID
 orcid_id: 0000-0001-9608-439X # your ORCID ID
@@ -41,7 +42,7 @@ blogger_url: # your blogger URL
 #contact_note: >
 #  You can even add a little note about which of these is the best way to reach you.
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+#google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog

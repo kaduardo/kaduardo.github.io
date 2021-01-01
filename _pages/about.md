@@ -25,4 +25,4 @@ I'm actively involved in R&D in the area of Software Engineering and its interpl
 
 If you are interesting in pursuing a PhD under my supervision, please check this [page](phd-vacancies).
 
-Previously (2012 - 2019), at the Metropole Digital Institute (IMD) at the Federal University of Rio Grande do Norte (UFRN), Brazil, he was the Head (Sep 2017 to Sep 2019, and Aug 2015 to Jan 2016) and deputy Head (Sep 2013 to Aug 2015) of the Post-graduate Program in Software Engineering (PPgSW) of IMD, now Post-graduate Program in Information Technology (PPgTI).
+Previously (2012 - 2019), at the Metropole Digital Institute (IMD) at the Federal University of Rio Grande do Norte (UFRN), Brazil, I was the Head (Sep 2017 to Sep 2019, and Aug 2015 to Jan 2016) and deputy Head (Sep 2013 to Aug 2015) of the Post-graduate Program in Software Engineering (PPgSW) of IMD, now Post-graduate Program in Information Technology (PPgTI).
