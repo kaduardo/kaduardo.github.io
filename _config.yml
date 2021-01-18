@@ -92,7 +92,7 @@ markdown: kramdown
 highlighter: pygments
 
 # Includes & excludes
-include: ['_pages']
+include: ['_pages','.well-known']
 exclude: [vendor]
 
 # Plug-ins
