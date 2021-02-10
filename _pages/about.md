@@ -1,5 +1,6 @@
 ---
 layout: about
+title: about
 permalink: /
 title: <strong>Dr. Carlos</strong> da Silva
 description: Senior Lecturer in Software Engineering at Department of Computing of <a href="https://www.shu.ac.uk/">Sheffield Hallam University</a>.
@@ -13,8 +14,9 @@ profile:
     <p>City Campus, Howard Street</p>
     <p>Sheffield, S1 1WB, UK</p>
 
-news: true
-social: true
+news: true  # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
 ---
 
 I'm a Senior Lecturer in Software Engineering with the Department of Computing of Sheffield Hallam University since September 2019.
