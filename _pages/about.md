@@ -25,6 +25,6 @@ I received a PhD in Computer Science from the University of Kent at Canterbury, 
 
 I'm actively involved in R&D in the area of Software Engineering and its interplay with Information Security, exploring topics like Self-adaptive Software Systems, Service-orientation and Business Process, Secure by design, Digital Identity Management and Access Control. I have been involved in a number of [projects](/projects) related to Smart Cities and Information Security, applying the above mentioned topics to the areas of Cloud Computing, Internet of Things and DevOps.
 
-If you are interesting in pursuing a PhD under my supervision, please check this [page](phd-vacancies).
+If you are interesting in pursuing a PhD under my supervision, please check this [page](phd-vacancies.html).
 
 Previously (2012 - 2019), at the Metropole Digital Institute (IMD) at the Federal University of Rio Grande do Norte (UFRN), Brazil, I was the Head (Sep 2017 to Sep 2019, and Aug 2015 to Jan 2016) and deputy Head (Sep 2013 to Aug 2015) of the Post-graduate Programme in Software Engineering (PPgSW) of IMD, now Post-graduate Programme in Information Technology (PPgTI).

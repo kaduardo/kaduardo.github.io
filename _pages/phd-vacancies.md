@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /phd-vacancies.html
+permalink: phd-vacancies.html
 #title: <strong>Dr. Carlos</strong> da Silva
 #description: Senior Lecturer in Software Engineering at Department of Computing of <a href="https://www.shu.ac.uk/">Sheffield Hallam University</a>.
 ---
